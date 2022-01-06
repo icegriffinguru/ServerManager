@@ -1,0 +1,15 @@
+D:\work\c#\ServerManager\ServerManager\bin\Release\ServerManager.exe.config
+D:\work\c#\ServerManager\ServerManager\bin\Release\ServerManager.exe
+D:\work\c#\ServerManager\ServerManager\bin\Release\ServerManager.pdb
+D:\work\c#\ServerManager\ServerManager\obj\Release\MainWindow.g.cs
+D:\work\c#\ServerManager\ServerManager\obj\Release\App.g.cs
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager_MarkupCompile.cache
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager_MarkupCompile.lref
+D:\work\c#\ServerManager\ServerManager\obj\Release\App.baml
+D:\work\c#\ServerManager\ServerManager\obj\Release\MainWindow.baml
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.g.resources
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.Properties.Resources.resources
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.csproj.GenerateResource.cache
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.csproj.CoreCompileInputs.cache
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.exe
+D:\work\c#\ServerManager\ServerManager\obj\Release\ServerManager.pdb

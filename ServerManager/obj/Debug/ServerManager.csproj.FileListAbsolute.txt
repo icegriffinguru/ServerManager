@@ -1,10 +1,8 @@
 D:\work\c#\ServerManager\ServerManager\bin\Debug\ServerManager.exe.config
 D:\work\c#\ServerManager\ServerManager\bin\Debug\ServerManager.exe
 D:\work\c#\ServerManager\ServerManager\bin\Debug\ServerManager.pdb
-D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager.csprojAssemblyReference.cache
 D:\work\c#\ServerManager\ServerManager\obj\Debug\MainWindow.g.cs
 D:\work\c#\ServerManager\ServerManager\obj\Debug\App.g.cs
-D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager_Content.g.cs
 D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager_MarkupCompile.cache
 D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager_MarkupCompile.lref
 D:\work\c#\ServerManager\ServerManager\obj\Debug\MainWindow.baml
@@ -14,3 +12,4 @@ D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.GenerateRe
 D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.CoreCompileInputs.cache
 D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager.exe
 D:\work\c#\ServerManager\ServerManager\obj\Debug\ServerManager.pdb
+D:\work\c#\ServerManager\ServerManager\obj\Debug\App.baml

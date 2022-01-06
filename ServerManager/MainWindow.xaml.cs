@@ -25,10 +25,13 @@ namespace ServerManager
             InitializeComponent();
 
             // initialize server value
-            serverTextBox.Text = "";
+            serverTextBox.Text = "sample server text here";
 
             // initialize version value
-            versionTextBox.Text = "";
+            versionTextBox.Text = "sample version text here";
+
+            // initialize log value
+            logTextBlock.Text = "sample log text here";
         }
 
         // when update button clicked

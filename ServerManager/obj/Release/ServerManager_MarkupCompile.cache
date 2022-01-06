@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\work\c#\ServerManager\ServerManager\obj\Debug\
+D:\work\c#\ServerManager\ServerManager\obj\Release\
 ServerManager
 none
 false
-DEBUG;TRACE
+TRACE
 D:\work\c#\ServerManager\ServerManager\App.xaml
 11151548125
 
